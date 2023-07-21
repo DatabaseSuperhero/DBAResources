@@ -1,2 +1,2 @@
 # DBAResources
-Resources for DBAs
+List of resources for DBAs

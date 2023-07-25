@@ -1,9 +1,9 @@
 # Fabric Resources
 
 * [Offical Twitter Account](https://twitter.com/AzDataFactory)
-* Blog(https://aka.ms/DataFactorBlog)
-* YouTube(https://aka.ms/DataFactoryVideos)
-* ]Share and vote for ideas](https://aka.ms/FabricIdeas)
+* [Blog](https://aka.ms/DataFactorBlog)
+* [YouTube](https://aka.ms/DataFactoryVideos)
+* [Share and vote for ideas](https://aka.ms/FabricIdeas)
 
 ## Product Pages
 * [Product Page](https://www.microsoft.com/microsoft-fabric/)

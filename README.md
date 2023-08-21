@@ -1,7 +1,7 @@
 # Database Platform
 
-* [.\InfluxDB\README.md](InfluxDB)
-* [.\MongoDB\README.md](MongoDB)
-* [.\Oracle\README.md](Oracle)
-* [.\Postgres\README.md](Postgres)
-* [.\SQLServer\README.md](SQL Server)
+* [InfluxDB](.\InfluxDB\README.md)
+* [MongoDB](.\MongoDB\README.md)
+* [Oracle](.\Oracle\README.md)
+* [Postgres](.\Postgres\README.md)
+* [SQLServer](.\SQLServer\README.md)

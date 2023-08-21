@@ -6,9 +6,9 @@ Please contribute as you see fit and we get some organization around it as thing
 
 ## Cloud
 
-* [.\AWS\README.md](AWS)
-* [.\Azure\README.md](Azure)
-* [.\GoogleCloud\README.md](Google Cloud)
+* [AWS](.\AWS\README.md)
+* [Azure](.\Azure\README.md)
+* [Google Cloud](.\GoogleCloud\README.md)
 
 ## General Resources
 

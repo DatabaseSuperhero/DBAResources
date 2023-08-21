@@ -1,11 +1,7 @@
-# Learning Resources for New and Experienced DBAs
-List of resources for DBAs to learn topics for beginning to expert
+# Database Platform
 
-Please contribute as you see fit and we get some organization around it as things come in
-
-## General Resources
-* [Blogs](./blogs.md)
-* [Podcasts](./podcasts.md)
-  
-## Technologies
-* [Fabric](./Fabric.md)
+* [.\InfluxDB\README.md](InfluxDB)
+* [.\MongoDB\README.md](MongoDB)
+* [.\Oracle\README.md](Oracle)
+* [.\Postgres\README.md](Postgres)
+* [.\SQLServer\README.md](SQL Server)
